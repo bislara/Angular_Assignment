@@ -1,0 +1,27 @@
+{
+  "name": "angular_coursera",
+  "version": "1.0.0",
+  "description": "practice course ",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "lara",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bislara/Angular_Assignment.git"
+  },
+  "keywords": [
+    "lara"
+  ],
+  "author": "Biswajeet_sahoo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bislara/Angular_Assignment/issues"
+  },
+  "homepage": "https://github.com/bislara/Angular_Assignment#readme",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
